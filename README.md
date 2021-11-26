@@ -1,6 +1,6 @@
 # PIBIC Novembro 2021
 
-Estudo em Processamento de Linguagem Natural para a Iniciação Científica 11/2021.
+Estudo em Processamento de Linguagem Natural para a Iniciação Científica de 11/2021.
 
 ### Coursera Natural Language Processing Tensorflow
 
