@@ -8,3 +8,4 @@ Soluções dos exercícios semanais feitos no [curso](https://www.coursera.org/l
 
 - [Semana 1](C3/W1/assignment/C3_W1_Assignment.ipynb)
 - [Semana 2](C3/W2/assignment/C3_W2_Assignment.ipynb)
+- [Semana 3](C3/W3/assignment/C3_W3_Assignment.ipynb)
