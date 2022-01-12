@@ -2,6 +2,10 @@
 
 Estudo em Processamento de Linguagem Natural para a Iniciação Científica de 11/2021.
 
+### Processamento de Produtos Veganos
+
+- [Histograma - First Try](Nutricao/histograma1.ipynb)
+
 ### Coursera Natural Language Processing Tensorflow
 
 Soluções dos exercícios semanais feitos no [curso](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome)
