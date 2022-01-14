@@ -5,6 +5,7 @@ Estudo em Processamento de Linguagem Natural para a Iniciação Científica de 1
 ### Processamento de Produtos Veganos
 
 - [Histograma - First Try](Nutricao/histograma1.ipynb)
+- [Word Cloud - First Try](Nutricao/wordcloud1.ipynb)
 
 ### Coursera Natural Language Processing Tensorflow
 
