@@ -4,5 +4,5 @@ Estudo em Processamento de Linguagem Natural para a Iniciação Científica de 1
 
 ### Técnicas de Visualização de Dados
 
-- [Vegan Dataset](PIBIC.ipynb)
+- [Vegan Dataset](vegan_dataset_visualization.ipynb)
 - [USDA Food Dataset](corgis_visualization_evaluation.ipynb)
