@@ -2,6 +2,7 @@
 
 Estudo em Processamento de Linguagem Natural para a Iniciação Científica de 11/2021.
 
-### Processamento de Produtos Veganos
+### Técnicas de Visualização de Dados
 
-- [Técnicas de Visualização](PIBIC.ipynb)
+- [Vegan Dataset](PIBIC.ipynb)
+- [USDA Food Dataset](corgis_visualization_evaluation.ipynb)
