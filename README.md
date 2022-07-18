@@ -1,6 +1,6 @@
-# PIBIC Novembro 2021
+# PIBIC
 
-Estudo em Processamento de Linguagem Natural para a Iniciação Científica de 11/2021.
+Estudo em Processamento de Linguagem Natural e Visualização de Dados para a Iniciação Científica de 11/2021.
 
 ### Técnicas de Visualização de Dados
 
